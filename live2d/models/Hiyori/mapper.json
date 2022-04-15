@@ -30,7 +30,7 @@
             "textures/texture_00.png": "textures/texture_00.png"
         }
     ],
-    "center":[1,0.45],
+    "center":[1,0.6],
     //模型尺寸
-    "model_scale":1.5
+    "model_scale":2.5
 }
