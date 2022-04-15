@@ -31,5 +31,6 @@
         }
     ],
     "center":[1,0.45],
-    "model_scale":0.8
+    //模型尺寸
+    "model_scale":1.5
 }
